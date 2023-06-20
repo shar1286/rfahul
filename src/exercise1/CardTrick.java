@@ -9,7 +9,7 @@ import java.util.Scanner;
  * @author Rahul
  * @author Rahul Sharma may 30, 2023
  */
-public class CardTrick {
+public class CardTrick1 {
     
     public static void main(String[] args) {
         
